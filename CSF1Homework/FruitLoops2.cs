@@ -30,6 +30,6 @@ namespace CSF1Homework
                 add += ".";
             }
 
-        }
-    }
-}
+        }//end MAIN()
+    }//end CLASS
+}//end NAMESPACE
